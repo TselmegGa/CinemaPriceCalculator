@@ -1,0 +1,13 @@
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\bin\Debug\netcoreapp3.1\CinemaPriceCalculator.exe
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\bin\Debug\netcoreapp3.1\CinemaPriceCalculator.deps.json
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\bin\Debug\netcoreapp3.1\CinemaPriceCalculator.runtimeconfig.json
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\bin\Debug\netcoreapp3.1\CinemaPriceCalculator.runtimeconfig.dev.json
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\bin\Debug\netcoreapp3.1\CinemaPriceCalculator.dll
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\bin\Debug\netcoreapp3.1\CinemaPriceCalculator.pdb
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\obj\Debug\netcoreapp3.1\CinemaPriceCalculator.csprojAssemblyReference.cache
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\obj\Debug\netcoreapp3.1\CinemaPriceCalculator.AssemblyInfoInputs.cache
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\obj\Debug\netcoreapp3.1\CinemaPriceCalculator.AssemblyInfo.cs
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\obj\Debug\netcoreapp3.1\CinemaPriceCalculator.csproj.CoreCompileInputs.cache
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\obj\Debug\netcoreapp3.1\CinemaPriceCalculator.dll
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\obj\Debug\netcoreapp3.1\CinemaPriceCalculator.pdb
+D:\Dev\C#\CinemaPriceCalculator\CinemaPriceCalculator\obj\Debug\netcoreapp3.1\CinemaPriceCalculator.genruntimeconfig.cache
